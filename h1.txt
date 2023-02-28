@@ -1,4 +1,5 @@
 Hello this merge code conflict files master
+hello this merge test line
 hello this is hitach application
 hello this is hitachi application test
 test revert example
